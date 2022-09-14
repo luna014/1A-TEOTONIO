@@ -1,2 +1,3 @@
 # 1A-TEOTONIO
 ATIVIDADES DESENVOLVIDAS EM SALA DE AULA 
+meu primeiro repositorio
